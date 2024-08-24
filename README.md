@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijitnath02
-- 👀 I’m interested in ethical hacking and other cyber mechanisms.
-- 🌱 I’m currently learning ethical hacking.
-- 💞️ I’m looking to collaborate on cyber security bruteforce attacking project
+- 👀 I’m interested in data analytical program.
+- 🌱 I’m currently learning data analysis.
+- 💞️ I’m looking to collaborate on data analyse project
 - 📫 How to reach me abhijit.nath.adtu@gmail.com
 
 <!---
